@@ -1,0 +1,39 @@
+.container {
+  height: 200px;
+  display: flex;
+  margin-top: 20vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.img {
+  border-radius: 50%;
+  height: 8em;
+  width: 8em;
+  padding: 0 8vw;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+}
+.track {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+span {
+  display: flex;
+  padding: 0 10vw;
+}
+
+.border {
+  border: 0.1rem solid lightcyan;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 4%;
+  padding: 30px;
+}
